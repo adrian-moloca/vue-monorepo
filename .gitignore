@@ -1,0 +1,5 @@
+./packages/app/node_modules
+./packages/component-library-welldone/node_modules
+
+.vscode
+node_modules
